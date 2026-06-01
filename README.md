@@ -1,4 +1,5 @@
 # pratyush_1
 my first git repository
 <br>
-Author- Pratyush Pachal
+Author- Pratyush Pachal(vit vellore)
+
